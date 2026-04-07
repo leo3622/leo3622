@@ -1,19 +1,3 @@
-<h1 align="center">🚀 Quoc (Leo) Ho</h1>
-
-<p align="center">
-  🤖 Aspiring AI Engineer | 🛠️ Systems & IT Enthusiast | 💻 Backend Developer
-</p>
-
-<p align="center">
-  📍 Holland, MI <br/>
-  📧 quocleoho362@gmail.com <br/>
-  🔗 <a href="https://linkedin.com/in/quocleoho/">LinkedIn</a> |
-  <a href="https://github.com/leo3622">GitHub</a> |
-  <a href="https://quocdho.vercel.app">Portfolio</a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I’m a Computer Science graduate with a strong foundation in **AI systems, backend development, and technical problem-solving**. I enjoy building scalable systems, automating workflows, and improving system reliability through data-driven approaches.
