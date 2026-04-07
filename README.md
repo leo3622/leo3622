@@ -24,20 +24,24 @@ I’m a Computer Science graduate with a strong foundation in **AI systems, back
 ## 🧠 Technical Skills
 
 ### 💻 Programming & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,linux,vscode" />
-  <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter" />
-  <img src="https://img.shields.io/badge/API-blue?style=flat" />
-  <img src="https://img.shields.io/badge/System-gray?style=flat" />
-  <img src="https://img.shields.io/badge/MS_Office-red?style=flat&logo=microsoftoffice" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/System_Integration-6C757D?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
 </p>
 
 ### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Keras-red?style=flat&logo=keras" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> 
 </p>
 
 ---
